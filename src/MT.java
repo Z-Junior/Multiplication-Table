@@ -2,7 +2,7 @@ public class MT
 {
     public static void main(String[] args)
     {
-        int[][] iTable = new int[12][12];
+        int[][] iTable = new int[13][13];
 
         for (int i = 1; i < iTable.length; i++)
             for (int j = 1; j < iTable[i].length; j++)
